@@ -13,7 +13,7 @@ import numpy as np
 
 gdal.AllRegister()
 
-os.chdir("/home/user/Git/Python_raster")
+os.getcwd()
 
 ##########################
 ###### Import data ####### 
